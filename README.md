@@ -43,5 +43,8 @@
 <h4 align="center">Profile Views :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mahallawy1}/count.svg"/></p>
+<div align="center">
+  <img align="center" src="giphy.gif"/>
+</div>
 
 <img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" align="center" />
