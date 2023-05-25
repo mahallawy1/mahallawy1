@@ -44,7 +44,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mahallawy1}/count.svg"/></p>
 <div align="center">
-  <img align="center" src="giphy.gif"/>
+  <img align="center" src="O5wx.gif"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" align="center" />
