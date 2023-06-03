@@ -5,7 +5,7 @@
 ###
  
  
-- 🔭 I’m currently  working on AVR projects
+- 🔭 I’m currently working on AVR projects
 
 - 🌱 I’m currently learning AUTOSAR standards and ARM arch 
 
