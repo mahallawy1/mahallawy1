@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, It's mahallawy</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<h1 align="center">Hi <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , It's mahallawy</h1>
 <h3 align="center">A passionate embedded developer 
 
 
@@ -46,3 +48,4 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" align="center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
