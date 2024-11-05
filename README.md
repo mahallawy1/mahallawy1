@@ -1,21 +1,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-<h1 align="center">Hi <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , It's mahallawy</h1>
-<h3 align="center">A passionate embedded developer 
+<a href="https://www.linkedin.com/in/abdelrahman-mahalawy-04a30b229/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mahallawy;Software+Engineer" alt=""/>
+</a>
+<!--<h1 align="center">Hi <a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , It's mahallawy</h1>
+<h3 align="center">A passionate embedded developer */
+-->
 
 
 ###
  
- 
+ <!--
 - 🔭 I’m currently working on AVR projects
 
 - 🌱 I’m currently learning AUTOSAR standards and ARM arch 
 
-- 👯 I’m looking to collaborate on smart technology and automotive projects. 
+- 👯 I’m looking to collaborate on smart technology and automotive projects. -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-mahalawy-04a30b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-mahalawy-04a30b229/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-mahalawy-04a30b229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-mahalawy-04a30b229/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/AbdelrahmanMahallawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/AbdelrahmanMahallawy" height="30" width="40" /></a>
 </p>
 
