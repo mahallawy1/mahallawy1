@@ -40,7 +40,7 @@
 
 
 
-<h4 align="center">Profile Views :eyes:</h4>
+<h4 align="center">Profile Visitors :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mahallawy1}/count.svg"/></p>
 <div align="center">
