@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <a href="https://www.linkedin.com/in/abdelrahman-mahalawy-04a30b229/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Mahallawy;Software+Engineer" alt=""/>
 </a>
@@ -43,12 +42,10 @@
 
 
 
-<h4 align="center">Profile Visitors :eyes:</h4>
+<h4 align="left">Profile Visitors :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{mahallawy1}/count.svg"/></p>
-<div align="center">
-  <img align="center" src="O5wx.gif"/>
-</div>
+<p align="left"><img src="https://profile-counter.glitch.me/{mahallawy1}/count.svg"/></p>
+
 
 <img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" align="center" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
