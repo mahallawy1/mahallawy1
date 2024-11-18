@@ -30,8 +30,9 @@
 <a href= https://github.com/omarrtarek29?tab=repositories&q=&type=&language=c&sort= > <img title="Embedded C" width ='32px' height='32px' src="https://www.downloadclipart.net/large/microcontroller-transparent-png.png"/> </a>
 <a href= https://github.com/ > <img title="RTOS" width ='83px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/3/3e/FreeRTOS_logo_2005.svg'> </a>
  </p>
-
+ 
 ## 
+<!--
 <h3 align="left"><img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25'> My Github Stats:</h3>
 
 
@@ -40,11 +41,11 @@
 
 
 
-
+<!--
 
 <h4 align="left">Profile Visitors :eyes:</h4>
 
 <p align="left"><img src="https://profile-counter.glitch.me/{mahallawy1}/count.svg"/></p>
 
 
-<img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" align="center" />
+<img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" align="center" /> -->
