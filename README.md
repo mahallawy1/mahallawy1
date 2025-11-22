@@ -21,7 +21,7 @@
 <a href="https://codeforces.com/profile/AbdelrahmanMahallawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/AbdelrahmanMahallawy" height="30" width="40" /></a>
 </p>
 
-
+<!--
 
 
 <h3 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45">Languages and Tools:</h3>
