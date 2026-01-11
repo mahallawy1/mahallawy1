@@ -17,9 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abdelrahman-mahalawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-mahalawy-04a30b229/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/AbdelrahmanMahallawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/AbdelrahmanMahallawy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-mahalawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;
+<a href="https://mahalawy.vercel.app/" target="blank"><img align="center" src="https://media.discordapp.net/attachments/597981887172182050/1459983604724793486/favicon.png?ex=69654330&is=6963f1b0&hm=4064f24c3f1ad3703afcee0048d76d9df2d427583f82d91c72cdc2fcdce96cc4&=&format=webp&quality=lossless&width=925&height=925" alt="Portfolio" height="40" width="40" /></a>&nbsp;
+<a href="https://codeforces.com/profile/AbdelrahmanMahallawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
 </p>
+
 
 <!--
 
